@@ -21,7 +21,7 @@ defmodule Mix.Tasks.Plsm do
 end
 
 
-defmodule Mix.Tasks.Plasm.Absinthe do
+defmodule Mix.Tasks.Plsm.Absinthe do
     use Mix.Task
     def run(_) do
         # ensure all dependencies are started manually.
