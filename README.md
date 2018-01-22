@@ -1,3 +1,5 @@
+This is a fork from https://github.com/jhartwell/Plsm for Absinthe.
+
 # Plsm (Formally Plasm)- Ecto model generation
 
 Plsm generates Ecto models based on existing database tables in your database. Currently, Ecto only allows the ability to create migrations that creates new tables/schemas. If you have an existing project that you want to add Ecto support for you would have to hand code the models. This can be tedious for tables that have many columns. 
